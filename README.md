@@ -21,13 +21,13 @@ https://github.com/user-attachments/assets/5cc72436-2749-479f-a1bf-06e0d06ce1e3
 
 ## Introduction
 
-Album AI is an experimental project that uses the recently released gpt-4o-mini and Haiku as a visual model to automatically identify metadata from image files in the album. It then leverages RAG technology to enable conversations with the album.
+Album AI is an experimental project that uses the recently released GPT-4o-mini and Haiku as a visual model to automatically identify metadata from image files in the album. It then leverages RAG technology to enable conversations with the album.
 
 It can be used as a traditional photo album or as an image knowledge base to assist LLM in content generation.
 
 ## Story
 
-As a photography enthusiast facing terabytes of photos, I often felt overwhelmed. All existing photo management software required extra effort to maintain. Haiku and the newly released gpt-4o-mini gave me hope. So I decided to implement it immediately. My partner and I created the first version in less than 24 hours.
+As a photography enthusiast facing terabytes of photos, I often felt overwhelmed. All existing photo management software required extra effort to maintain. Haiku and the newly released GPT-4o-mini gave me hope. So I decided to implement it immediately. My partner and I created the first version in less than 24 hours.
 
 We hope you'll like it too. We welcome any praise or criticism. Don't forget to give us a ⭐️ or share to let more people know about it.
 
@@ -43,7 +43,7 @@ We hope you'll like it too. We welcome any praise or criticism. Don't forget to 
   - Search: A traditional Search API that takes a query and returns the most relevant images.
   - Chat: A RAG API that takes a query, retrieves images, and generates responses.
 - One-click deployment to platforms like Render that support Docker container deployment.
-- A permissive open-source license allows for integration and modification (please contact us for commercial use).
+- A permissive open-source license allows integration and modification (please contact us for commercial use).
 
 ## How to start using?
 
@@ -98,15 +98,15 @@ Album AI currently implements the following APIs:
 
 There are four ways to support this project:
 
-1. Fork the project and submit a PR: We welcome any PR to make Album AI better.
-2. Submit an Issue: We welcome any reasonable suggestions or bug reports.
+1. Fork the project and submit a PR: We welcome any PR to improve Album AI.
+2. Submit an Issue: We welcome reasonable suggestions or bug reports.
 3. Recommend: Recommend the project to others; click Star; place a link to the project after using it.
 
 ## License
 
 Apache 2.0 License
 
-## You have a question/suggestion/issue/Bug?
+## Do You have a question/suggestion/issue/Bug?
 
 We use Github's Issue to manage these feedbacks, you can submit one. We will often deal with them.
 
